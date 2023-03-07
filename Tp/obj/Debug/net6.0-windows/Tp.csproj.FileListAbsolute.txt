@@ -1,0 +1,83 @@
+C:\Users\pc\source\repos\Tp\Tp\bin\Debug\net6.0-windows\Tp.exe
+C:\Users\pc\source\repos\Tp\Tp\bin\Debug\net6.0-windows\Tp.deps.json
+C:\Users\pc\source\repos\Tp\Tp\bin\Debug\net6.0-windows\Tp.runtimeconfig.json
+C:\Users\pc\source\repos\Tp\Tp\bin\Debug\net6.0-windows\Tp.dll
+C:\Users\pc\source\repos\Tp\Tp\bin\Debug\net6.0-windows\Tp.pdb
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.AssemblyInfo.cs
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.dll
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\refint\Tp.dll
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.pdb
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.genruntimeconfig.cache
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\ref\Tp.dll
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.GestionClient.resources
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.Home.resources
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.Log.resources
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.GestionOuvrage.resources
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.lhuo.resources
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.Livre.resources
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.CD.resources
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.Periodique.resources
+C:\Users\pc\source\repos\Tp\Tp\obj\Debug\net6.0-windows\Tp.GestionEmprunt.resources
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.exe
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.deps.json
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.runtimeconfig.json
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.dll
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.pdb
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.CD.resources
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.GestionClient.resources
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.GestionEmprunt.resources
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.GestionOuvrage.resources
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.Home.resources
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.Livre.resources
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.Log.resources
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.Periodique.resources
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.csproj.GenerateResource.cache
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.AssemblyInfo.cs
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.dll
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\refint\Tp.dll
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.pdb
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.genruntimeconfig.cache
+C:\Users\Utilisateur\Downloads\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\ref\Tp.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.exe
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.deps.json
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.runtimeconfig.json
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Tp.pdb
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.CD.resources
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.GestionClient.resources
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.GestionEmprunt.resources
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.GestionOuvrage.resources
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.Home.resources
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.Livre.resources
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.Log.resources
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.Periodique.resources
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.csproj.GenerateResource.cache
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\refint\Tp.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.pdb
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.genruntimeconfig.cache
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\ref\Tp.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.csproj.CopyComplete
+C:\Users\Utilisateur\Desktop\amine\Tp5 Dotnet\Tp\obj\Debug\net6.0-windows\Tp.UserControl1.resources
